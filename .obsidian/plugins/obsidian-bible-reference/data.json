@@ -1,0 +1,45 @@
+{
+  "bibleVersion": "bbe",
+  "defaultBibleVersion": "bbe",
+  "offlineMode": false,
+  "referenceLinkPosition": "Header",
+  "verseFormatting": "Single Line",
+  "verseNumberFormatting": "1. ",
+  "multiChapterSeparatorFormat": "Chapter Separator",
+  "showChapterNumberInSeparator": true,
+  "verseSegmentSeparatorFormat": "Verse Separator",
+  "collapsibleVerses": false,
+  "enableHyperlinking": true,
+  "linkOnlyMode": false,
+  "showVerseTranslation": true,
+  "bookTagging": false,
+  "bookTaggingFormat": "{{book}}",
+  "chapterTagging": false,
+  "chapterTaggingFormat": "{{book}}{{chapter}}",
+  "enableBibleVerseLookupRibbon": false,
+  "bookBacklinking": "None",
+  "chapterBacklinking": "None",
+  "bibleVersionStatusIndicator": "Short",
+  "displayBibleIconPrefixAtHeader": true,
+  "internalLinkingFormat": "None",
+  "enableInternalLinking": "None",
+  "logosFallbackVersion": "niv2011",
+  "sourceOfReference": "biblegateway",
+  "bookNameLanguage": "Version-Specific",
+  "verseCache": {
+    "version": 1,
+    "translations": {
+      "bbe": {
+        "John|1": {
+          "1": {
+            "book_id": "JHN",
+            "book_name": "John",
+            "chapter": 1,
+            "verse": 1,
+            "text": "From the first he was the Word, and the Word was in relation with God and was God."
+          }
+        }
+      }
+    }
+  }
+}
