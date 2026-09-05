@@ -1,12 +1,14 @@
 # Workouts
 
-Marcus tracks Aaron’s training here (Obsidian / phone sync via GitHub).
+Marcus coaches; LiftOff logs.
 
 ## Files
-- `Log.md` — dated session notes (weight, sets, how it felt)
-- Plans and templates as needed
+- `LiftOff setup.md` — plugin folders + how to run sessions
+- `Templates/` — LiftOff workout templates (Day A/B/C)
+- LiftOff session notes land in this folder (source of truth for loads)
 
-## Notes
-- Low-impact strength; Mon/Wed/Fri mornings preferred
+## Program
+- Mon Push / Wed Pull / Fri Legs+core
+- 20–30 min, low-impact, compounds only
+- Day C: squat + RDL + pallof (no lunges with squats)
 - Equipment: dumbbells, bench, cable machine
-- No hard-boiled eggs / high-impact cardio in adjacent meal notes — Marcus owns fitness detail
