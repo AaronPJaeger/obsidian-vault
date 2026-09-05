@@ -8,7 +8,7 @@ Trip: doorknob + groceries (same stop)
 <!-- shopping-list:end -->
 
 ## Lowe's
-- [ ] Doorknob for Houndstown (match old: keyed vs passage, backset)
+- [x] Doorknob for Houndstown (match old: keyed vs passage, backset)
 
 ## Aldi
 - [ ] Chicken thighs (~2–3 lb) — butter chicken + bowls
