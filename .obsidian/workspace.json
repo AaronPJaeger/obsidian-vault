@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "God/Service Notes/2026-08-30.md",
+                "file": "Shopping/Shopping List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-30"
+              "title": "Shopping List"
             }
           }
         ],
@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.8046875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,9 +217,11 @@
   },
   "active": "97044263f798afcd",
   "lastOpenFiles": [
+    "Shopping",
+    "God/Service Notes/2026-08-30.md",
+    "Shopping/Shopping List.md",
     "God/Service Notes/2026-08-16.md",
     "God/Service Notes/2026-08-23.md",
-    "God/Service Notes/2026-08-30.md",
     "God/Prayers/Thank You.md"
   ]
 }
