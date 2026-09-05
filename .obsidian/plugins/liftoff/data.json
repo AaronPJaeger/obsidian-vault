@@ -24,7 +24,7 @@
       "type": "workout",
       "template": "Day A Push",
       "date": "2026-09-05",
-      "start": "16:13",
+      "start": "16:18",
       "end": null,
       "duration": null,
       "exercises": [
@@ -102,6 +102,6 @@
         }
       ]
     },
-    "startTimeMs": 1788639236663
+    "startTimeMs": 1788639539820
   }
 }
