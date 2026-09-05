@@ -12,10 +12,10 @@ Trip: doorknob + groceries (same stop)
 
 ## Aldi
 - [x] Chicken thighs (~2–3 lb) — butter chicken + bowls
-- [ ] Butter chicken / curry jar sauce
+- [x] Butter chicken / curry jar sauce
 - [x] Ground beef 1–2 lb (burgers)
 - [x] Smoked or Italian sausage
-- [ ] Frozen chicken nuggets/tenders (busy weekend 9/12)
+- [x] Frozen chicken nuggets/tenders (busy weekend 9/12)
 - [x] Eggs 18 ct (scramble/fry only — no hard-boiled)
 - [x] Greek yogurt (big tub)
 - [x] Cottage cheese
