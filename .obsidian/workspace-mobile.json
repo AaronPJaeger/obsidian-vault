@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping.md",
+                "file": "Shopping/Shopping List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shopping"
+              "title": "Shopping List"
             }
           }
         ]
@@ -178,6 +178,8 @@
   "active": "c039dc17819bd1f8",
   "lastOpenFiles": [
     "God/Service Notes/2026-08-30.md",
+    "Shopping/Shopping List.md",
+    "Shopping",
     "Shopping.md",
     "God/Service Notes/2026-08-23.md",
     "Untitled.md",
