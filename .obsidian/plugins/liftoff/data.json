@@ -22,14 +22,14 @@
   "activeWorkout": {
     "workout": {
       "type": "workout",
-      "template": "Day A Push",
+      "template": "Day B Pull",
       "date": "2026-09-05",
-      "start": "16:13",
+      "start": "16:19",
       "end": null,
       "duration": null,
       "exercises": [
         {
-          "name": "Dumbbell Bench Press",
+          "name": "One-Arm Dumbbell Row",
           "exerciseType": "weight",
           "sets": [
             {
@@ -53,7 +53,7 @@
           ]
         },
         {
-          "name": "Dumbbell Overhead Press",
+          "name": "Cable Lat Pulldown",
           "exerciseType": "weight",
           "sets": [
             {
@@ -77,7 +77,7 @@
           ]
         },
         {
-          "name": "Cable Chest Press",
+          "name": "Seated Cable Row",
           "exerciseType": "weight",
           "sets": [
             {
@@ -102,6 +102,6 @@
         }
       ]
     },
-    "startTimeMs": 1788639236663
+    "startTimeMs": 1788639573304
   }
 }
