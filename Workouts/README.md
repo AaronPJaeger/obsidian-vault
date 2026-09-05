@@ -1,12 +1,11 @@
 # Workouts
 
-Marcus tracks Aaron’s training here (Obsidian / phone sync via GitHub).
+Marcus coaches; LiftOff logs.
 
 ## Files
-- `Log.md` — coaching session log (loads + next targets)
 - `LiftOff setup.md` — plugin folders + how to run sessions
 - `Templates/` — LiftOff workout templates (Day A/B/C)
-- LiftOff also writes finished session notes into this `Workouts/` folder
+- LiftOff session notes land in this folder (source of truth for loads)
 
 ## Program
 - Mon Push / Wed Pull / Fri Legs+core
