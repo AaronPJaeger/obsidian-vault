@@ -37,5 +37,7 @@ Optional tips, leftovers, swaps.
 - [[Chicken Burrito Bowls]]
 - [[Butter Chicken Bowls]]
 - [[Chili Pizza]]
+- [[Make-Ahead Wake-Up Wraps]]
+- [[Protein Smoothie]]
 
 See [[Meal Plan Sep 5-13]] for when to cook them.
