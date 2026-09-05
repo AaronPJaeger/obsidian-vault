@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8800271b81ccae",
+        "id": "8f28ed9e2347f7a5",
         "type": "tabs",
         "children": [
           {
-            "id": "c039dc17819bd1f8",
+            "id": "50f11a0d201269a0",
             "type": "leaf",
             "state": {
               "type": "liftoff-workout",
@@ -172,7 +172,7 @@
       "liftoff:Open liftoff": false
     }
   },
-  "active": "c039dc17819bd1f8",
+  "active": "50f11a0d201269a0",
   "lastOpenFiles": [
     "Shopping/Shopping List.md",
     "God/Service Notes/2026-08-30.md",
