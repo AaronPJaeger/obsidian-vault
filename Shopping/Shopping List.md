@@ -19,8 +19,8 @@ Trip: doorknob + groceries (same stop)
 - [ ] Eggs 18 ct (scramble/fry only — no hard-boiled)
 - [ ] Greek yogurt (big tub)
 - [ ] Cottage cheese
-- [ ] Shredded cheese
-- [ ] Salsa
+- [x] Shredded cheese
+- [x] Salsa
 - [ ] Bag salad ×2
 - [x] Bananas + strawberries/berries
 - [ ] Chickpeas (optional)
