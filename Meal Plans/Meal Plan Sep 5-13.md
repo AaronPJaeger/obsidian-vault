@@ -34,7 +34,4 @@ Optional: [[Chili Pizza]] for leftover chili + cheese pizza.
 - Breakfast: no morning scramble — reheated wraps or blender only
 
 ## On hand / bought
-Chili batch, free pizzas (×2), marinated pork tenderloins, chicken, jar butter chicken sauce, salsa, cheese, Greek yogurt, cottage cheese, eggs, sausage, ground beef, bag salad, berries, frozen veg, dried black beans, white rice, frozen nuggets, protein powder, creatine.
-
-## Shopping gap
-- **Flour tortillas** — needed for wake-up wraps if you don’t have them.
+Chili batch, free pizzas (×2), marinated pork tenderloins, chicken, jar butter chicken sauce, salsa, cheese, Greek yogurt, cottage cheese, eggs, sausage, ground beef, bag salad, berries, frozen veg, dried black beans, white rice, frozen nuggets, protein powder, creatine, flour tortillas.
