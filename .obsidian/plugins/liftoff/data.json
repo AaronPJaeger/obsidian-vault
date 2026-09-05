@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "workoutFolder": "Workouts",
+    "templateFolder": "Workout Templates",
+    "weightUnit": "kg",
+    "restTimerPresets": [
+      30,
+      60,
+      90,
+      120
+    ],
+    "defaultRestDuration": 90,
+    "defaultWorkDuration": 40,
+    "defaultRestIntervalDuration": 20,
+    "exerciseLibrary": [
+      {
+        "name": "Goblet Squat",
+        "exerciseType": "weight"
+      }
+    ]
+  },
+  "activeWorkout": null
+}
