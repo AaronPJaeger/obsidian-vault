@@ -2,6 +2,10 @@
 
 Trip: doorknob + groceries (same stop)
 
+<!-- shopping-list:start {"title":"Shopping list"} -->
+## Shopping list
+- [ ] 
+<!-- shopping-list:end -->
 
 ## Lowe's
 - [ ] Doorknob for Houndstown (match old: keyed vs passage, backset)
