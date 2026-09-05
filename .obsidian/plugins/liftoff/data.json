@@ -1,7 +1,7 @@
 {
   "settings": {
-    "workoutFolder": "Workouts",
-    "templateFolder": "Workout Templates",
+    "workoutFolder": "Workouts/Logs",
+    "templateFolder": "Workouts/Templates",
     "weightUnit": "kg",
     "restTimerPresets": [
       30,
@@ -19,5 +19,89 @@
       }
     ]
   },
-  "activeWorkout": null
+  "activeWorkout": {
+    "workout": {
+      "type": "workout",
+      "template": "Day A Push",
+      "date": "2026-09-05",
+      "start": "16:13",
+      "end": null,
+      "duration": null,
+      "exercises": [
+        {
+          "name": "Dumbbell Bench Press",
+          "exerciseType": "weight",
+          "sets": [
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            },
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            },
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "name": "Dumbbell Overhead Press",
+          "exerciseType": "weight",
+          "sets": [
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            },
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            },
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "name": "Cable Chest Press",
+          "exerciseType": "weight",
+          "sets": [
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            },
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            },
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    "startTimeMs": 1788639236663
+  }
 }

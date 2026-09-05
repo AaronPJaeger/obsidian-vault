@@ -2,7 +2,7 @@
 
 1. Install **LiftOff** from Obsidian Community Plugins (phone + desktop).
 2. Settings:
-   - **Workout folder:** `Workouts`
+   - **Workout folder:** `Workouts/Logs`
    - **Template folder:** `Workouts/Templates`
    - **Weight unit:** lbs
 3. Start Monday from template **Day A Push**, Wed **Day B Pull**, Fri **Day C Legs**.
