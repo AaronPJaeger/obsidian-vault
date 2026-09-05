@@ -3,7 +3,7 @@
 Dunkin-style breakfast wraps: scramble once on prep day, wrap, fridge/freeze, reheat in the morning. No morning scramble.
 
 ## Ingredients
-- 8 flour tortillas (soft taco size)
+- 8 flour tortillas (soft taco size) — already on hand
 - 8–10 eggs
 - 0.5–0.75 lb smoked or Italian sausage, cooked and crumbled/sliced
 - 1.5–2 cups shredded cheese
@@ -22,4 +22,3 @@ Dunkin-style breakfast wraps: scramble once on prep day, wrap, fridge/freeze, re
 ## Notes
 - Batch on Sun evening or a low-stress night.
 - Pair with Greek yogurt or a banana if you want more staying power.
-- Need tortillas if not already in the pantry.
