@@ -1,0 +1,7 @@
+# Per-device Obsidian UI state (desktop vs mobile diverge constantly)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Local trash
+.trash/
