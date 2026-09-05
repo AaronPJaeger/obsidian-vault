@@ -31,6 +31,6 @@ Trip: doorknob + groceries (same stop) — **done Sat Sep 5, 2026**
 Chili leftovers (beef/beans/tomatoes), pork tenderloins, frozen veg, dried black beans, white rice, protein powder, creatine
 
 ## Notes
-- Target ~$100/week; Aldi-first (in-store for now — Walmart delivery went to wrong house)
+- Target ~$100/week; Aldi-first
 - Instant Pot / air fryer meals preferred
-- Walmart order #200015183353328 — refund/credit if needed
+- Sat Sep 5 dinner: chili (batch cooked afternoon). Pork grill deferred past Houndstown.
