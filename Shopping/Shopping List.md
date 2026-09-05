@@ -1,12 +1,12 @@
 # Shopping — Lowe's + Aldi
 
-Trip: doorknob + groceries (same stop)
+Trip: doorknob + groceries (same stop) — **done Sat Sep 5, 2026**
 
 <!-- shopping-list:start {"title":"Shopping list"} -->
 ## Shopping list
-- [ ] eggs Aldi
-- [ ] milk Aldi 
-- [ ] cheese Walmart
+- [x] eggs Aldi
+- [x] milk Aldi
+- [x] cheese Walmart
 <!-- shopping-list:end -->
 
 ## Lowe's
@@ -25,7 +25,7 @@ Trip: doorknob + groceries (same stop)
 - [x] Salsa
 - [x] Bag salad ×2
 - [x] Bananas + strawberries/berries
-- [ ] Chickpeas (optional)
+- [x] Chickpeas (optional) — picked up with rest / skip next time if unused
 
 ## Already covered — skip
 Chili leftovers (beef/beans/tomatoes), pork tenderloins, frozen veg, dried black beans, white rice, protein powder, creatine
