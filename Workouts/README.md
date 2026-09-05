@@ -2,10 +2,10 @@
 
 Marcus coaches; LiftOff logs.
 
-## Files
-- `LiftOff setup.md` — plugin folders + how to run sessions
-- `Templates/` — LiftOff workout templates (Day A/B/C)
-- LiftOff session notes land in this folder (source of truth for loads)
+## Folders
+- `Logs/` — LiftOff session notes (source of truth for loads)
+- `Templates/` — Day A Push / Day B Pull / Day C Legs
+- `LiftOff setup.md` — plugin settings
 
 ## Program
 - Mon Push / Wed Pull / Fri Legs+core
