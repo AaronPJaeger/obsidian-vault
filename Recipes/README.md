@@ -2,6 +2,8 @@
 
 Aaron’s recipe collection (Marcus + Claire).
 
+Weekly schedules live in **Meal Plans/** (they link here — don’t put meal plans in this folder).
+
 ## Plugins
 - **Recipe View** (installed) — open a recipe note, then use the whisk / “Toggle recipe view” for a cook-friendly card (scales quantities, checkable ingredients). Works on phone.
 
@@ -29,8 +31,11 @@ Optional tips, leftovers, swaps.
 - Use a numbered list under Method/Steps
 - Optional: thumbnail image at the top
 
-## Starters to add later
-- Chili (batch)
-- Chili pizza (leftover chili on cheese pizza)
-- Butter chicken bowls
-- Burrito bowls
+## This week’s recipes
+- [[Instant Pot Chili]]
+- [[Grilled Pork Tenderloin]]
+- [[Chicken Burrito Bowls]]
+- [[Butter Chicken Bowls]]
+- [[Chili Pizza]]
+
+See [[Meal Plan Sep 5-13]] for when to cook them.
