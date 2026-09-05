@@ -11,14 +11,14 @@ Trip: doorknob + groceries (same stop)
 - [x] Doorknob for Houndstown (match old: keyed vs passage, backset)
 
 ## Aldi
-- [ ] Chicken thighs (~2–3 lb) — butter chicken + bowls
+- [x] Chicken thighs (~2–3 lb) — butter chicken + bowls
 - [ ] Butter chicken / curry jar sauce
 - [x] Ground beef 1–2 lb (burgers)
-- [ ] Smoked or Italian sausage
+- [x] Smoked or Italian sausage
 - [ ] Frozen chicken nuggets/tenders (busy weekend 9/12)
-- [ ] Eggs 18 ct (scramble/fry only — no hard-boiled)
-- [ ] Greek yogurt (big tub)
-- [ ] Cottage cheese
+- [x] Eggs 18 ct (scramble/fry only — no hard-boiled)
+- [x] Greek yogurt (big tub)
+- [x] Cottage cheese
 - [x] Shredded cheese
 - [x] Salsa
 - [ ] Bag salad ×2
