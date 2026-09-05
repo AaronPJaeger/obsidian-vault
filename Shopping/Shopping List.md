@@ -21,7 +21,7 @@ Trip: doorknob + groceries (same stop)
 - [x] Cottage cheese
 - [x] Shredded cheese
 - [x] Salsa
-- [ ] Bag salad ×2
+- [x] Bag salad ×2
 - [x] Bananas + strawberries/berries
 - [ ] Chickpeas (optional)
 
