@@ -5,8 +5,9 @@ Trip: doorknob + groceries (same stop)
 <!-- shopping-list:start {"title":"Shopping list"} -->
 ## Shopping list
 - [ ] 
-- [ ] Aldi eggs
 - [ ] 
+- [ ] 
+- [ ] aldi eggs milk
 <!-- shopping-list:end -->
 
 ## Lowe's
