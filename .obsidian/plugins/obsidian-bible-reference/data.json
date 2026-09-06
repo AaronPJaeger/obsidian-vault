@@ -38,6 +38,119 @@
             "verse": 1,
             "text": "From the first he was the Word, and the Word was in relation with God and was God."
           }
+        },
+        "Revelation|21": {
+          "1": {
+            "book_id": "REV",
+            "book_name": "Revelation",
+            "chapter": 21,
+            "verse": 1,
+            "text": "And I saw a new heaven and a new earth: for the first heaven and the first earth were gone; and there was no more sea."
+          },
+          "2": {
+            "book_id": "REV",
+            "book_name": "Revelation",
+            "chapter": 21,
+            "verse": 2,
+            "text": "And I saw the holy town, new Jerusalem, coming down out of heaven from God, like a bride made beautiful for her husband."
+          },
+          "3": {
+            "book_id": "REV",
+            "book_name": "Revelation",
+            "chapter": 21,
+            "verse": 3,
+            "text": "And there came to my ears a great voice out of the high seat, saying, See, the Tent of God is with men, and he will make his living-place with them, and they will be his people, and God himself will be with them, and be their God."
+          },
+          "4": {
+            "book_id": "REV",
+            "book_name": "Revelation",
+            "chapter": 21,
+            "verse": 4,
+            "text": "And he will put an end to all their weeping; and there will be no more death, or sorrow, or crying, or pain; for the first things have come to an end."
+          },
+          "5": {
+            "book_id": "REV",
+            "book_name": "Revelation",
+            "chapter": 21,
+            "verse": 5,
+            "text": "And he who is seated on the high seat said, See, I make all things new. And he said, Put it in the book; for these words are certain and true."
+          }
+        },
+        "2 Corinthians|4": {
+          "16": {
+            "book_id": "2CO",
+            "book_name": "2 Corinthians",
+            "chapter": 4,
+            "verse": 16,
+            "text": "For which cause we do not give way to weariness; but though our outer man is getting feebler, our inner man is made new day by day."
+          },
+          "17": {
+            "book_id": "2CO",
+            "book_name": "2 Corinthians",
+            "chapter": 4,
+            "verse": 17,
+            "text": "For our present trouble, which is only for a short time, is working out for us a much greater weight of glory;"
+          },
+          "18": {
+            "book_id": "2CO",
+            "book_name": "2 Corinthians",
+            "chapter": 4,
+            "verse": 18,
+            "text": "While our minds are not on the things which are seen, but on the things which are not seen: for the things which are seen are for a time; but the things which are not seen are eternal."
+          }
+        },
+        "Matthew|25": {
+          "4": {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 25,
+            "verse": 4,
+            "text": "But the wise took oil in their vessels with their lights."
+          },
+          "46": {
+            "book_id": "MAT",
+            "book_name": "Matthew",
+            "chapter": 25,
+            "verse": 46,
+            "text": "And these will go away into eternal punishment; but the upright into eternal life."
+          }
+        },
+        "Hebrews|3": {
+          "1": {
+            "book_id": "HEB",
+            "book_name": "Hebrews",
+            "chapter": 3,
+            "verse": 1,
+            "text": "For this reason, holy brothers, marked out to have a part in heaven, give thought to Jesus the representative and high priest of our faith;"
+          },
+          "12": {
+            "book_id": "HEB",
+            "book_name": "Hebrews",
+            "chapter": 3,
+            "verse": 12,
+            "text": "My brothers, take care that there is not by chance in any one of you an evil heart without belief, turning away from the living God:"
+          },
+          "13": {
+            "book_id": "HEB",
+            "book_name": "Hebrews",
+            "chapter": 3,
+            "verse": 13,
+            "text": "But give comfort to one another every day as long as it is still Today; so that no one among you may be made hard by the deceit of sin:"
+          },
+          "14": {
+            "book_id": "HEB",
+            "book_name": "Hebrews",
+            "chapter": 3,
+            "verse": 14,
+            "text": "For if we keep the substance of the faith which we had at the start, even till the end, we have a part with Christ;"
+          },
+          "15": {
+            "book_id": "HEB",
+            "book_name": "Hebrews",
+            "chapter": 3,
+            "verse": 15,
+            "text": "As it is said, Today if you will let his voice come to your ears, be not hard of heart, as when you made him angry."
+          }
         }
       }
     }
