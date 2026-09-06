@@ -24,7 +24,7 @@
       "type": "workout",
       "template": "Day B Pull",
       "date": "2026-09-06",
-      "start": "14:53",
+      "start": "14:54",
       "end": null,
       "duration": null,
       "exercises": [
@@ -102,6 +102,6 @@
         }
       ]
     },
-    "startTimeMs": 1788720819847
+    "startTimeMs": 1788720886440
   }
 }
