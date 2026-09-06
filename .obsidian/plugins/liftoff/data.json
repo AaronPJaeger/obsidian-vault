@@ -34,9 +34,9 @@
           "sets": [
             {
               "weight": 0,
-              "reps": 0,
+              "reps": 10,
               "unit": "kg",
-              "completed": false
+              "completed": true
             },
             {
               "weight": 0,
