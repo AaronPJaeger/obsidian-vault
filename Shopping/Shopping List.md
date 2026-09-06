@@ -1,8 +1,9 @@
 <!-- shopping-list:start {"title":"Shopping List"} -->
 ## Shopping List
-- [ ] eggs Aldi
-- [ ] milk Aldi
-- [ ] cheese Walmart
+- [ ] Frozen Fruit Walmart [due:: 2026-09-06] 
+- [ ] Whole Cloves Walmart [due:: 2026-09-06] 
+<!-- shopping-list:end -->
+
 ## Notes
 - Target ~$100/week; Aldi-first (in-store for now)
 - Instant Pot / air fryer meals preferred
