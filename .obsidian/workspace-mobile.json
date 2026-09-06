@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macros/Daily log template.md",
+                "file": "Macros/2026-09-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily log template"
+              "title": "2026-09-06"
             }
           }
         ],
@@ -188,14 +188,15 @@
       "macros:Add food item (search or manual entry)": false
     }
   },
-  "active": "ec00ee8045dbc1f1",
+  "active": "6e9e68ffe0757fef",
   "lastOpenFiles": [
+    "Macros/Daily log template.md",
+    "Nutrition/Butter Chicken Bowl (serving).md",
     "Recipes/Cottage Cheese Ranch Dip.md",
     "Recipes/Cottage Cheese Ideas.md",
     "Recipes/Cottage Cheese Alfredo.md",
     "Nutrition/Cottage Cheese.md",
     "Macros/2026-09-06.md",
-    "Nutrition/Butter Chicken Bowl (serving).md",
     "Nutrition/Wake-up Wrap.md",
     "Nutrition/Protein Smoothie.md",
     "Nutrition/README.md",
@@ -205,7 +206,6 @@
     "Nutrition/Chili Pizza (serving).md",
     "Nutrition/Chicken Burrito Bowl (serving).md",
     "Nutrition",
-    "Macros/Daily log template.md",
     "Macros",
     "Workouts/Logs/2026-09-06 Day B Pull.md",
     "Workouts/Logs",
