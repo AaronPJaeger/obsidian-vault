@@ -34,10 +34,10 @@
   "includeAliasesOnRename": false,
   "macroscalcMetricsConfigs": [],
   "foodTolerances": {},
-  "micronutrientTrackingEnabled": false,
+  "micronutrientTrackingEnabled": true,
   "micronutrientProfile": {
     "sex": "male",
-    "age": 30,
+    "age": 43,
     "lifeStage": "none"
   },
   "micronutrientTargets": {}
