@@ -20,7 +20,12 @@
   "disableTooltips": false,
   "showCellPercentages": false,
   "developerModeEnabled": false,
-  "uiCollapseStates": {},
+  "uiCollapseStates": {
+    "macros:table:2026-09-06:breakfast @07:00": false,
+    "macros:table:2026-09-06:lunch @12:30": false,
+    "macros:table:2026-09-06:dinner @18:30": false,
+    "macros:dashboard:2026-09-06:dashboard": false
+  },
   "energyUnit": "kcal",
   "addToMacrosTabOrder": [
     "meals",
