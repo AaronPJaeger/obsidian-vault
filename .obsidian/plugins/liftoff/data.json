@@ -57,10 +57,10 @@
           "exerciseType": "weight",
           "sets": [
             {
-              "weight": 0,
-              "reps": 0,
+              "weight": 95,
+              "reps": 10,
               "unit": "lbs",
-              "completed": false
+              "completed": true
             },
             {
               "weight": 0,
