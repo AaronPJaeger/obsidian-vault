@@ -19,5 +19,5 @@ Jar sauce shortcut — Aldi butter chicken / curry jar + chicken + Instant Pot r
 5. Serve over rice with heated frozen veg on the side.
 
 ## Notes
-- Chickpeas optional add-in if you bought them.
+- Chickpeas optional add-in
 - Leftovers reheat well for lunch next day.
