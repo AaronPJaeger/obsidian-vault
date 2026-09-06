@@ -169,11 +169,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "liftoff:Open liftoff": false
+      "liftoff:Open liftoff": false,
+      "macros:Add food item (search or manual entry)": false
     }
   },
   "active": "013e9d31228c9e52",
   "lastOpenFiles": [
+    "Nutrition/Wake-up Wrap.md",
+    "Nutrition/README.md",
+    "Nutrition/Protein Smoothie.md",
+    "Nutrition/Instant Pot Chili (serving).md",
+    "Nutrition/Grilled Pork Tenderloin (serving).md",
+    "Nutrition/Chili Pizza (serving).md",
+    "Nutrition/Chicken Burrito Bowl (serving).md",
+    "Nutrition/Butter Chicken Bowl (serving).md",
+    "Nutrition",
+    "Macros/Daily log template.md",
+    "Macros",
     "Workouts/Logs/2026-09-06 Day B Pull.md",
     "Workouts/Logs",
     "Wardrobe/README.md",
@@ -197,16 +209,7 @@
     "Recipes/Butter Chicken Bowls.md",
     "Recipes",
     "Meal Plans/README.md",
-    "Meal Plans/Meal Plan Sep 5-13.md",
     "Meal Plans",
-    "God/Service Notes/2026-08-30.md",
-    "Shopping.md",
-    "God/Service Notes/2026-08-23.md",
-    "Untitled.md",
-    "God/Service Notes/2026-08-16.md",
-    "God/Prayers/Thank You.md",
-    "God/Service Notes",
-    "God/Prayers",
-    "God"
+    "God/Service Notes"
   ]
 }
