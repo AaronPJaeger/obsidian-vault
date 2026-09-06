@@ -2,7 +2,7 @@
   "settings": {
     "workoutFolder": "Workouts/Logs",
     "templateFolder": "Workouts/Templates",
-    "weightUnit": "kg",
+    "weightUnit": "lbs",
     "restTimerPresets": [
       30,
       60,
