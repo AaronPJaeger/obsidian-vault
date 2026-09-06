@@ -34,19 +34,9 @@
               "icon": "lucide-file",
               "title": "Shopping List"
             }
-          },
-          {
-            "id": "404b4f37848b5f7b",
-            "type": "leaf",
-            "state": {
-              "type": "liftoff-workout",
-              "state": {},
-              "icon": "dumbbell",
-              "title": "Liftoff - workout"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +191,7 @@
       "liftoff:Open liftoff": false
     }
   },
-  "active": "404b4f37848b5f7b",
+  "active": "0cb162ab950ec512",
   "lastOpenFiles": [
     "God/Service Notes/2026-09-06.md",
     "Shopping/Shopping List.md",
