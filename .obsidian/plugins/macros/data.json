@@ -13,7 +13,7 @@
   "openFoodFactsLanguage": "auto",
   "openFoodFactsDataQualityFilter": "medium",
   "dailyCaloriesTarget": 2200,
-  "dailyProteinTarget": 185,
+  "dailyProteinTarget": 190,
   "dailyFatTarget": 65,
   "dailyCarbsTarget": 250,
   "showSummaryRows": false,
