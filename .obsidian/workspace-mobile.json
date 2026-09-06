@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nutrition/README.md",
+                "file": "Nutrition/Butter Chicken Bowl (serving).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Butter Chicken Bowl (serving)"
             }
           }
         ],
@@ -188,12 +188,12 @@
       "macros:Add food item (search or manual entry)": false
     }
   },
-  "active": "ec00ee8045dbc1f1",
+  "active": "6e9e68ffe0757fef",
   "lastOpenFiles": [
+    "Nutrition/Protein Smoothie.md",
+    "Nutrition/README.md",
     "Nutrition/Sourdough Toast.md",
     "Macros/2026-09-06.md",
-    "Nutrition/README.md",
-    "Nutrition/Protein Smoothie.md",
     "Nutrition/Butter Chicken Bowl (serving).md",
     "Nutrition/Wake-up Wrap.md",
     "Nutrition/Instant Pot Chili (serving).md",
