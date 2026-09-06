@@ -24,7 +24,7 @@
       "type": "workout",
       "template": "Day B Pull",
       "date": "2026-09-06",
-      "start": "14:55",
+      "start": "14:58",
       "end": null,
       "duration": null,
       "exercises": [
@@ -33,21 +33,21 @@
           "exerciseType": "weight",
           "sets": [
             {
-              "weight": 0,
+              "weight": 50,
               "reps": 10,
-              "unit": "kg",
+              "unit": "lbs",
               "completed": true
             },
             {
               "weight": 0,
               "reps": 0,
-              "unit": "kg",
+              "unit": "lbs",
               "completed": false
             },
             {
               "weight": 0,
               "reps": 0,
-              "unit": "kg",
+              "unit": "lbs",
               "completed": false
             }
           ]
@@ -59,19 +59,19 @@
             {
               "weight": 0,
               "reps": 0,
-              "unit": "kg",
+              "unit": "lbs",
               "completed": false
             },
             {
               "weight": 0,
               "reps": 0,
-              "unit": "kg",
+              "unit": "lbs",
               "completed": false
             },
             {
               "weight": 0,
               "reps": 0,
-              "unit": "kg",
+              "unit": "lbs",
               "completed": false
             }
           ]
@@ -83,25 +83,25 @@
             {
               "weight": 0,
               "reps": 0,
-              "unit": "kg",
+              "unit": "lbs",
               "completed": false
             },
             {
               "weight": 0,
               "reps": 0,
-              "unit": "kg",
+              "unit": "lbs",
               "completed": false
             },
             {
               "weight": 0,
               "reps": 0,
-              "unit": "kg",
+              "unit": "lbs",
               "completed": false
             }
           ]
         }
       ]
     },
-    "startTimeMs": 1788720947585
+    "startTimeMs": 1788721109025
   }
 }
