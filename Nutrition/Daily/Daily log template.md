@@ -1,6 +1,6 @@
 # Daily macros log
 
-Copy into today’s note (or a Macros daily note). Change the `id` to today’s date.
+Copy into today’s note under `Nutrition/Daily` (or a daily note). Change the `id` to today’s date.
 
 ````markdown
 ```macros
