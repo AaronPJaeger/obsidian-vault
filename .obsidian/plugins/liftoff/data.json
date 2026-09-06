@@ -19,5 +19,89 @@
       }
     ]
   },
-  "activeWorkout": null
+  "activeWorkout": {
+    "workout": {
+      "type": "workout",
+      "template": "Day B Pull",
+      "date": "2026-09-06",
+      "start": "14:53",
+      "end": null,
+      "duration": null,
+      "exercises": [
+        {
+          "name": "One-Arm Dumbbell Row",
+          "exerciseType": "weight",
+          "sets": [
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            },
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            },
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "name": "Cable Lat Pulldown",
+          "exerciseType": "weight",
+          "sets": [
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            },
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            },
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "name": "Seated Cable Row",
+          "exerciseType": "weight",
+          "sets": [
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            },
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            },
+            {
+              "weight": 0,
+              "reps": 0,
+              "unit": "kg",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    "startTimeMs": 1788720819847
+  }
 }
