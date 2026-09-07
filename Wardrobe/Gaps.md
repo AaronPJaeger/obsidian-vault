@@ -1,18 +1,18 @@
 # Gaps
 
-Based on Sep 6, 2026 photo catalog. Buy only if it unlocks outfits — don’t duplicate tees/shorts he already has many of.
+Based on Sep 6, 2026 photo catalog + sizes (shirt L, pants 32, shoes 11).
 
 ## Real gaps
-- **Shoes** — none in photos; need casual sneakers + one nicer pair for church if he doesn’t have them
-- **Simple everyday “slightly sharper” top** — he has tons of plain tees; 1–2 solid polos or plain oxfords (Amazon Essentials) would step up IT/weekend without looking fancy
-- **Dark jeans in good condition** — only ~3 jeans vs many slacks; one dark straight/slim jean can replace tired pairs if any are worn out
+- **Slightly sharper everyday tops** — tons of plain tees; 1–2 solid polos or plain oxfords in L (Amazon Essentials) for IT/weekend/church-casual
+- **Optional: one non-athletic casual shoe** — he has black Pumas, black slip-ons, flip-flops; a simple brown or black casual shoe helps with chinos + blazer if those feel too sporty for church
+- **Dark jeans only if current pairs are worn out** — already ~3 jeans; don’t buy otherwise
 
 ## Not gaps (skip buying)
 - More solid tees (already 15+)
 - More casual shorts (already a full stack)
-- More hoodies (already several)
+- More hoodies
+- More black athletic shoes
 - Designer / logos / flashy accessories
 
 ## Confirm with Aaron
-- Shoe situation (what he owns)
-- Whether blazers + dress shirt already cover church, or he wants one simpler church outfit (chino + polo)
+- Whether blazers + dress shirts already feel fine for church, or he wants a simpler chino + polo look

@@ -2,6 +2,11 @@
 
 Cataloged from photos Aaron sent **Sun Sep 6, 2026**. Approximate counts from shelf/hanger shots. Houndstown uniforms noted but not used for outfit planning.
 
+## Sizes
+- Shirt: **L**
+- Pants: **32**
+- Shoes: **11**
+
 ## Tops — tees (~15–17 solid + 1 graphic)
 - Navy tee ×2+
 - Black tee
@@ -64,6 +69,11 @@ Cataloged from photos Aaron sent **Sun Sep 6, 2026**. Approximate counts from sh
 - Black leather, silver buckle
 - Tan / beige woven fabric belt
 
+## Shoes
+- Black Puma athletic sneakers (laced)
+- Black slip-on comfort / walking shoes (chunky sole)
+- Black flip-flops
+
 ## Accessories / misc (not clothing gaps)
 - Black over-ear headphones
 - Sleep mask
@@ -71,10 +81,7 @@ Cataloged from photos Aaron sent **Sun Sep 6, 2026**. Approximate counts from sh
 - Black crate with dark soft goods (socks/undergarments likely)
 - Patterned towel / blanket (not wardrobe)
 
-## Shoes
-- **Not photographed** — still need a shoe shot
-
 ## Notes
 - Overall vibe: lots of solid tees + many casual/dress pants; few jeans; solid hoodie layer; two blazers for church/dressier days
 - Preferred colors already in closet: navy, gray, black, khaki, olive, some blue/red accents
-- Sizes: still unknown — add when known (shirt / pants / shoes)
+- Everyday shoes covered (all black); no brown/casual leather or dress shoe in photos
